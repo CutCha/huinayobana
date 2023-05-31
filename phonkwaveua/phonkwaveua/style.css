@@ -1,0 +1,140 @@
+body {
+    font-family: 'Montserrat',
+        sans-serif;
+}
+
+.main {
+    font-size: 20;
+    text-shadow: 0 0 30px white,
+    0 0 30px white,
+    0 0 30px white,
+    0 0 30px white;
+}
+
+.main1 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+.main2 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+.main3 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+.main4 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+.main5 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+
+}
+
+.main6 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+.main7 {
+    font-size: 20;
+    color: blueviolet;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+
+
+.cutcha {
+    float: left;
+    padding: 10;
+}
+
+.cojurue {
+    float: left;
+    padding: 10;
+}
+
+.sxlxvoin {
+    float: left;
+    padding: 10;
+}
+
+.lipaze {
+    float: left;
+    padding: 10;
+}
+
+.snowykilla {
+    float: left;
+    padding: 10;
+}
+
+.infxrnvm {
+    float: left;
+    padding: 10;
+}
+
+.td {
+    padding: 20;
+}
+
+.table {
+    margin: auto;
+    box-shadow: 0 0 30px white;
+}
+
+.h1 {
+    color: blueviolet;
+    text-align: center;
+    text-shadow: 0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet,
+    0 0 30px blueviolet;
+}
+.li {
+    padding: 5;
+    font-size: 20;
+    color: white;
+}
+
+.ul {
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    text-align: center;
+    text-shadow: 0 0 30px white,
+    0 0 30px white,
+    0 0 30px white;
+}
